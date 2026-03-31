@@ -10,3 +10,10 @@ Open MetaV app on your mobile device
 You should be able to see MetaV app home screen with a "Sugget" and "Reset" button.
 
 <img width="562" height="270" alt="Screenshot 2026-03-31 135006" src="https://github.com/user-attachments/assets/9d05994a-80f5-4703-8856-b487def89389" />
+
+Type in your time of the day eg("Morning").
+
+Figure 2 :
+Photo example :
+
+<img width="560" height="276" alt="Screenshot 2026-03-31 135021" src="https://github.com/user-attachments/assets/69f5af80-54ae-465a-9283-2c68f2c1d427" />
