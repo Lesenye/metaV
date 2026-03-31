@@ -23,3 +23,9 @@ figure 3 :
 Press the "Suggest" button to get your suggestion of the day.
 
 <img width="559" height="271" alt="Screenshot 2026-03-31 135034" src="https://github.com/user-attachments/assets/7bd34c73-2013-40d2-98f5-0be0038265f8" />
+
+When trying to get new suggestion you can use the "Reset" button on MetaV home screen to enter new time of the day.
+
+When you enter an incorrect time on the textable area tou will recieve "Invalid Input" this means you have entered am incorrect time,SEE Figure 4 below for reference:
+
+<img width="559" height="283" alt="Screenshot 2026-03-31 135057" src="https://github.com/user-attachments/assets/e132a7ae-acaf-41b2-9dd9-1bf0f0c90b95" />
