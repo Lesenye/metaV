@@ -6,4 +6,5 @@ MetaV instruction video : https://youtu.be/ueM7ang8_aw
 Open the Meta V app on your mobile home screen Enter your time of day to get our suggestion eg.(Morning,Midday,Afternoon,Evening,Night),If non of the above examples times have been entered you mabe get "Invalid Input".
 
 FIGURE 1 :
+
 <img width="562" height="270" alt="Screenshot 2026-03-31 135006" src="https://github.com/user-attachments/assets/9d05994a-80f5-4703-8856-b487def89389" />
