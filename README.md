@@ -19,3 +19,7 @@ Photo example :
 
 <img width="560" height="276" alt="Screenshot 2026-03-31 135021" src="https://github.com/user-attachments/assets/69f5af80-54ae-465a-9283-2c68f2c1d427" />
 
+figure 3 :
+Press the "Suggest" button to get your suggestion of the day.
+
+<img width="559" height="271" alt="Screenshot 2026-03-31 135034" src="https://github.com/user-attachments/assets/7bd34c73-2013-40d2-98f5-0be0038265f8" />
