@@ -7,7 +7,7 @@ Open the Meta V app on your mobile home screen Enter your time of day to get our
 
 FIGURE 1 :
 Open MetaV app on your mobile device
-You should be able to see MetaV app home screen with a "Sugget" and "Reset" button.
+You should be able to see MetaV app home screen with a "Suggest" and "Reset" button.
 
 <img width="562" height="270" alt="Screenshot 2026-03-31 135006" src="https://github.com/user-attachments/assets/9d05994a-80f5-4703-8856-b487def89389" />
 
